@@ -93,7 +93,7 @@ Before stable release of 1.0, input data structure and APIs may change during de
 
 ## Documentation
 
-See detailed documentation at [fortune-sheet-doc](https://ruilisi.github.io/fortune-sheet-docs/)
+See detailed documentation at [fortune-sheet-doc]()
 
 ## Get started (react)
 
